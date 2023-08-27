@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import Button from "./core/Button";
+import Button from "./UICore/Button";
 import { useAuth0 } from "@auth0/auth0-react";
 import { useNavigate } from "react-router-dom";
 
